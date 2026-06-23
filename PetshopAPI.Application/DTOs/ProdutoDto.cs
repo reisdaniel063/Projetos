@@ -8,7 +8,9 @@ public class CriarProdutoDto
     public decimal EstoqueMinimo {get; set;}
     public Guid FornecedorId{get; set;}
 
-    public class AtualizarProdutoDtio
+    
+}
+public class AtualizarProdutoDto
     {
         public string Nome {get; set;} = string.Empty;
         public string Unidade {get; set;} = string.Empty;
@@ -24,4 +26,3 @@ public class CriarProdutoDto
         public decimal EstoqueMinimo {get; set;}
         public string NomeFornecedor {get; set;} = string.Empty;
     }
-}

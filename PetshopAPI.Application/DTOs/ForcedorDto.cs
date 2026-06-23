@@ -1,6 +1,6 @@
 namespace PetshopAPI.Application.DTOs;
 
-public class CriarForncedorDto
+public class CriarFornecedorDto
 {
     public string Nome {get; set;} = string.Empty;
     public string Contato {get; set;} = string.Empty;

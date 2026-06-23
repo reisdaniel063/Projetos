@@ -80,3 +80,7 @@ C:\Users\maiap\Desktop\Projetos\PetshopAPI.API\bin\Debug\net10.0\runtimes\win\li
 C:\Users\maiap\Desktop\Projetos\PetshopAPI.API\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\maiap\Desktop\Projetos\PetshopAPI.API\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\maiap\Desktop\Projetos\PetshopAPI.API\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maiap\Desktop\Projetos\PetshopAPI.API\obj\Debug\net10.0\PetshopAPI.API.sourcelink.json
+C:\Users\maiap\Desktop\Projetos\PetshopAPI.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maiap\Desktop\Projetos\PetshopAPI.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maiap\Desktop\Projetos\PetshopAPI.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
